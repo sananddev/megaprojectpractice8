@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+terraform/.terraform.lock.hcl
+.gitignore
+.gitignore
+terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/5.65.0/windows_amd64/terraform-provider-aws_v5.65.0_x5.exe
